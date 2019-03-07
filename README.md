@@ -1,8 +1,7 @@
 # SpikeNet
 Spike Net
 
- It containst methods to coding input data as Linear Coding and Receptive Fields Coding
-
+Simple Clustering with Supervised Fixed Method to Classify Data in two Groups with weights fixed 
  1- Create a Java project
  
  2- Add jfree chart JAR to libraries
