@@ -1,7 +1,8 @@
 # SpikeNet
 Spike Net
 
-Simple Clustering with Supervised Fixed Method to Classify Data in two Groups with weights fixed 
+Simple Clustering with Supervised Fixed Method to Classify Data in two Groups with weights fixed
+
  1- Create a Java project
  
  2- Add jfree chart JAR to libraries
