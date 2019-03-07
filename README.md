@@ -1,5 +1,4 @@
-# SpikeNet
-Simple Clustering
+# Simple Clustering
 
 Simple Clustering with Supervised Fixed Method to Classify Data in two Groups with weights fixed
 
