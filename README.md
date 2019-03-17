@@ -12,6 +12,6 @@ Clustering with Unsupervised Method to CLuster data in five groups
  3- Run the App 
  
 
-kmeans is work in progress
+**kmeans is work in progress
 
  
