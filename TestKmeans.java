@@ -297,8 +297,6 @@ private XYDataset createNormalizedData() {
 			
 		}
 		
-		//http://mnemstudio.org/ai/cluster/k_means_java_ex1.txt
-		
 		while(isStillMoving) {
 			
 			for (int i=0; i< NUM_CLUSTERS; i++) {
